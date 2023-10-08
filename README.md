@@ -1,8 +1,10 @@
 ![scale_1200](https://github.com/artyfyodrv/artyfyodrv/assets/89071495/a477c6c1-0c5a-4dca-ab7d-44d6ea3cc80a)
-<h1 align="center">Hi there 🙌🏻, I'm <a href="https://t.me/artyfyodrv/" target="_blank">Artyom 
-  <a href="https://t.me/artyfyodrv" target="blank"><img align="center" src="https://github.com/artyfyodrv/artyfyodrv/blob/main/telegram_logo_icon_147228.svg" alt="#5882" height="30" width="40" /></a>
+<h1 align="center">Hi there 🙌🏻, I'm <a href="https://t.me/artyfyodrv/" target="_blank">Artyom</a>
+</a>
+<a href="https://t.me/artyfyodrv" target="blank"><img align="center" src="https://github.com/artyfyodrv/artyfyodrv/blob/main/telegram_logo_icon_147228.svg" alt="#5882" height="30" width="40" </a></a>
 <a href="https://discord.gg/#5882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5882" height="30" width="40" /></a>
-</a></h1>
+</h1>
+
   
 <h3 align="center">I'm Junior PHP and Java Developer</h3> 
 
