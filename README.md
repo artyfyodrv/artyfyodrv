@@ -11,7 +11,7 @@
 - <h4>🇷🇺 City: Moscow </h4>
 - <h4>👨 Years old: 21</h4>
 - <h4>📚 I am learning PHP and Java programming languages.</h4>
-- <h4>✍🏻 My experience in learning programming is 8+ months.</h4>
+- <h4>✍🏻 My experience in learning programming is 1+ year</h4>
 - <h4>💻 Using Windows && Linux.</h4>
 - <h4>💬 In my free time I write my pet projects and learn new tools.</h4>
 
